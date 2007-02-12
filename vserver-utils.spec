@@ -1,5 +1,5 @@
 Summary:	New Linux virtual server utilities
-Summary(pl):	Nowe narzêdzia dla linuksowych serwerów wirtualnych (vserver)
+Summary(pl.UTF-8):   Nowe narzÄ™dzia dla linuksowych serwerÃ³w wirtualnych (vserver)
 Name:		vserver-utils
 Version:	1.0.3
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 New Linux virtual server utilities.
 
-%description -l pl
-Nowe narzêdzia dla linuksowych serwerów wirtualnych (vserver).
+%description -l pl.UTF-8
+Nowe narzÄ™dzia dla linuksowych serwerÃ³w wirtualnych (vserver).
 
 %prep
 %setup -q
