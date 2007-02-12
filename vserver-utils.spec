@@ -1,5 +1,5 @@
 Summary:	New Linux virtual server utilities
-Summary(pl.UTF-8):   Nowe narzędzia dla linuksowych serwerów wirtualnych (vserver)
+Summary(pl.UTF-8):	Nowe narzędzia dla linuksowych serwerów wirtualnych (vserver)
 Name:		vserver-utils
 Version:	1.0.3
 Release:	1
