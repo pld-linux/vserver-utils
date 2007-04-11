@@ -19,6 +19,8 @@ Nowe narzędzia dla linuksowych serwerów wirtualnych (vserver).
 
 %prep
 %setup -q
+
+%build
 %configure \
 	--disable-dietlibc
 %{__make}
